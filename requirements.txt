@@ -1,0 +1,7 @@
+customtkinter==5.2.1
+pillow==10.1.0
+reportlab==4.0.8
+pandas==2.1.4
+openpyxl==3.1.2  # For Excel file support
+sqlite3  # Usually comes with Python
+tkinter  # Usually comes with Python
