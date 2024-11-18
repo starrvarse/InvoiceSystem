@@ -68,4 +68,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, please contact Arif Hussain at [email@example.com](mailto:email@example.com).
+For any inquiries, please contact Arif Hussain at [email@example.com](mailto:contact@bigsur.in).
